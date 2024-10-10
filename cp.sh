@@ -6,7 +6,5 @@ yum install httpd  -y
 systemctl  enable  httpd  --now
 firewall-cmd  --add-service={http,https} --permanent
 firewall-cmd  --reload
-cp -rvf 294  /var/www/html/
-mv /var/www/html/294   /var/www/html/Rhce
-curl  workstation.lab.example.com
+cp -rvf ~/294  /var/www/html/
 echo   practice makes a man perfect!!!!
