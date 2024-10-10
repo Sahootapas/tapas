@@ -1,0 +1,6 @@
+hostname=HOST 
+memory=TOTAL_RAM
+bios=BIOS_Version
+vdasize=VDA_SIZE
+vdbsize=VDB_SIZE
+vdcsize=VDC_SIZE
