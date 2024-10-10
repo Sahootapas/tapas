@@ -10,3 +10,4 @@ firewall-cmd  --reload
 mkdir /var/www/html/Rhce
 cp -rvf ./294/*  /var/www/html/Rhce
 curl  workstation.lab.example.com
+echo   practice makes a man perfect!!!!
