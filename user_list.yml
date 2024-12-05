@@ -2,7 +2,10 @@
 - users:
   -  name: user1
      job: developer
+     uid: 3000
   -  name: user2
      job: manager
+     uid: 3001
   -  name: user3
      job: developer
+     uid: 3002
