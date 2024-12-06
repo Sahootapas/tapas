@@ -11,5 +11,5 @@ sudo mkdir  /var/www/html/content
 sudo systemctl restart httpd 
 sudo mv  ~/tapas/*      /var/www/html/content
 sudo chcon  system_u:object_r:httpd_sys_content_t:s0 /var/www/html/content/*
-echo   practice makes a man perfect!!!!   
+echo   practice makes everyone perfect!!!!   
 echo   Thanks  for this   oppertunity
